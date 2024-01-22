@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["👑 I am PTHLinh","Cute","XinhĐẹp","HiềnLành❤️","DễThương🌇"];
+const statusMessages = ["👑 Iam PhạmTrầnHuyềnLinh","Cute💗","XinhĐẹp🙆","HiềnLành❤️","DễThương😘"];
 
 
 let currentIndex = 0;
